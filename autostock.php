@@ -1,7 +1,7 @@
 <?xml version='1.0'?>
 <stocks>
   <stock>
-    <s_run>true</s_run>
+    <s_run>false</s_run>
     <s_state>sale</s_state>
     <s_code>055550</s_code>
     <s_price>42600</s_price>
